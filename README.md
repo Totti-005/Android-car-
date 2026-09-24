@@ -31,4 +31,3 @@ The Android client connects to `http://10.102.115.214:8081/procar/backend/`, whe
 4. Build and install the Android app.
 
 The first API request creates the `pro_car` database and tables when MySQL credentials in `.env` are valid. The Android app supports customer registration/login, live car search, booking creation, booking history, cancellation, payment recording, and review submission. Admin and company inventory management remain available through the web dashboard.
-
